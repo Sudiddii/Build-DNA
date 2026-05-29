@@ -34,6 +34,8 @@ The result: business ideas matched to your DNA, not a generic market map.
 | Starts with you, not the market | ✅ | ❌ |
 | Works for physical products | ✅ | Rarely |
 | Cross-border arbitrage ideas | ✅ | ❌ |
+| Market analysis (TAM/SAM/SOM)   | ✅ | ❌ |
+| One-page PRD + MVP roadmap      | ✅ | ❌ |
 | Cofounder gap analysis | ✅ | ❌ |
 | Founder skill development plan | ✅ | ❌ |
 | Channel-specific marketing plan | ✅ | Generic |
